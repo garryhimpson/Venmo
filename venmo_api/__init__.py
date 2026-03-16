@@ -27,3 +27,5 @@ __all__ = ["AuthenticationFailedError", "InvalidArgumentError", "InvalidHttpMeth
            "PaymentPrivacy", "ApiClient", "AuthenticationApi", "UserApi", "PaymentApi",
            "Client"
            ]
+
+print("Venmo Client Import Successful!")
