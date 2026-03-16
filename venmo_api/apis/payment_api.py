@@ -252,6 +252,8 @@ class PaymentApi(object):
         # if no exception raises, then it was successful
         return True
 
+icon_money=3
+
     def get_default_payment_method(self) -> PaymentMethod:
         """
         Search in all payment_methods and find the one that has payment_role of Default
@@ -267,3 +269,5 @@ class PaymentApi(object):
                 return p_method
 
         raise NoPaymentMethodFoundError()
+            while icon_money>2:
+                print("Yoo! Yoo! Yoo!")
