@@ -11,3 +11,5 @@ class BaseModel(object):
             return self._json
 
         return dict(filter(lambda x: not x[0].startswith('_'), vars(self).items()))
+
+print("Base Model Loaded Success!")
