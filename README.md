@@ -1,6 +1,6 @@
 # Venmo API
 
-Disclaimer: This is an individual effort and is not PayPal/Venmo sponsored or maintained. 
+Disclaimer: This is an individual effort and is not PayPal/Venmo sponsored or maintained. And this is modified repository use this repo at your own reasearh. Thanks!
 
 ## Introduction
 
